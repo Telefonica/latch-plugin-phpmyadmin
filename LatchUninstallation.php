@@ -21,7 +21,7 @@
 if (!isset($_POST['setparam'])){
 ?>
 <p>To get a custom uninstallation set the path to the directory where index.php and config.inc.php files are, then click next. For a basic uninstallation click next.</p>
-<form action="LatchInstallation.php" method="POST">
+<form action="LatchUninstallation.php" method="POST">
     <label for="pathindex">Path to index.php file: </label>
     <input type="text" name="pathindex" id="pathindex" /><br>
     <label for="pathconfig">Path to config.inc.php file: </label>
