@@ -2,7 +2,7 @@
 
 
 ##PREREQUISITES
-* phpMyAdmin version 4 or later.
+* Any version of phpMyAdmin between 4.0.4 and 4.2.11
 
 * User installing the plugin should have write permissions in php.
 
